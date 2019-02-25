@@ -6,8 +6,8 @@ Prerequisites:
 - `python`, version 3+
 
 Install:
-- `npm install -g truffle`, installs version 5+
-- `npm install -g ganache-cli`, installs version 6+
+- `npm install -g truffle`, install version 5+
+- `npm install -g ganache-cli`, install version 6+
 
 Browser extension:
 - [MetaMask](https://metamask.io/)
