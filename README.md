@@ -7,7 +7,8 @@ Prerequisites:
 
 Install:
 - `npm install -g truffle`, install version 5+
-- `npm install -g ganache-cli`, install version 6+
+- `npm install -g ganache-cli`, install version 6+.
+- (optional) install [ethnode](https://github.com/vrde/ethnode), an alternative to `ganache-cli` I'm currently developing.
 
 Browser extension:
 - [MetaMask](https://metamask.io/)
